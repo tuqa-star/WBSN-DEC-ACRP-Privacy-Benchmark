@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these benchmark results or figures, please cite the following Springer CCIS article."
+title: "Enhanced Energy-Efficient and Privacy-Preserving Routing Framework for Wireless Body Sensor Networks Using Deep Embedded Clustering and Adaptive Context-Aware Protocols"
+authors:
+  - family-names: "Jebur"
+    given-names: "Tuqa Kareem"
+  - family-names: "Peñalver"
+    given-names: "Lourdes"
+  - family-names: "Lloret"
+    given-names: "Jaime"
+  - family-names: "Hoomod"
+    given-names: "Haider K."
+collection-title: "3INC 2025, Communications in Computer and Information Science (CCIS)"
+volume: 2960
+start: 130
+end: 149
+year: 2026
+publisher:
+  name: "Springer Nature Switzerland AG"
+doi: "10.1007/978-3-032-24239-6_9"
