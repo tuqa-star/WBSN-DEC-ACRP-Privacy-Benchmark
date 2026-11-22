@@ -1,0 +1,8 @@
+Attack_Type,Baseline_Percent,DEC_Only_Percent,Proposed_DEC_ACRP_Percent
+Brute-Force,85,35,5
+Eavesdropping,92,42,8
+Sybil,68,28,7
+Replay Attack,74,25,4
+Wormhole Attack,58,31,9
+Blackhole Attack,62,36,6
+Traffic Analysis,77,48,12

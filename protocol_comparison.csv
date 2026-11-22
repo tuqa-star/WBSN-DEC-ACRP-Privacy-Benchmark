@@ -1,0 +1,6 @@
+Protocol,Network_Lifetime_Percent,Energy_Efficiency_Percent,Latency_Seconds,Privacy_Leakage,Throughput_PDR_Percent
+LEACH,60.0,65.0,0.35,0.25,68.0
+HEED,62.0,68.0,0.32,0.22,70.0
+PEGASIS,65.0,70.0,0.3,0.2,73.0
+DEC,80.0,85.0,0.22,0.12,85.0
+Proposed (DEC+ACRP),90.0,92.0,0.15,0.06,94.0

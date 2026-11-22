@@ -1,0 +1,8 @@
+Reference,Latency_ms,Energy_Consumption_J,Network_Lifetime_Percent,Throughput_kbps,Scalability
+Prakash et al. (2024),10.9,0.84,90.9,120,High
+Sharma & Gagan (2024),11.7,0.79,91.5,119,High
+Madkar et al. (2024),11.0,0.76,92.6,124,High
+Raman et al. (2024),11.5,0.8,90.3,117,High
+Khoshvaght et al. (2025),12.7,0.88,89.4,112,High
+Kumar et al. (2025),13.9,0.92,88.7,108,Moderate
+Proposed Method (DEC + ACRP),2.6,0.21,98.3,152,High
